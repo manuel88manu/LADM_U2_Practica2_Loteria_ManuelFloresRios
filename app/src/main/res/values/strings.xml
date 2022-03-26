@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LADM_U2_Practica2_Loteria_ManuelFloresRios</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="pausar">Pausar</string>
+</resources>
